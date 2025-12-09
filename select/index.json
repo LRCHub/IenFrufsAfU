@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "FG ROADSTER",
+  "base_artist": "響咲リオナ",
+  "createdAt": "2025-12-09T05:14:36.543717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FG ROADSTER",
+      "artist": "FLOW GLOW",
+      "has_synced": true,
+      "path": "select/01_FG_ROADSTER_FLOW_GLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FG ROADSTER",
+      "artist": "響咲リオナ",
+      "has_synced": true,
+      "path": "select/02_FG_ROADSTER_響咲リオナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FG ROADSTER",
+      "artist": "響咲リオナ, 虎金妃笑虎, 水宮枢, 輪堂千速, 綺々羅々ヴィヴィ",
+      "has_synced": false,
+      "path": "select/03_FG_ROADSTER_響咲リオナ,_虎金妃笑虎,_水宮枢,_輪堂千速,_綺々羅々ヴィヴィ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FG ROADSTER",
+      "artist": "響咲リオナ, 虎金妃笑虎, 水宮枢, 輪堂千速, 綺々羅々ヴィヴィ",
+      "has_synced": false,
+      "path": "select/pl_01_FG_ROADSTER_響咲リオナ,_虎金妃笑虎,_水宮枢,_輪堂千速,_綺々羅々ヴィヴィ.txt"
+    }
+  ]
+}
